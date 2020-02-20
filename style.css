@@ -1,0 +1,113 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: red;
+}
+
+.headerLarge {
+  color: darkred;
+  font-family: 'Special Elite';
+  font-size: 100px;
+  text-align: center;
+}
+
+.subtitle {
+  color: darkred;
+  font-family: 'Special Elite';
+  font-size: 50px;
+  text-align: center;
+}
+
+.smallSubtitle {
+  color: darkred;
+  font-family: 'Special Elite';
+  font-size: 40px;
+  text-align: center;
+}
+
+.headerSmall {
+  color: black;
+  font-family: 'Special Elite';
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  color: black;
+  font-family: 'Special Elite';
+  font-size: 30px;
+  text-align: center;
+  width: 60%;
+  margin: auto;
+}
+
+.pred {
+  color: darkred;
+  font-family: 'Special Elite';
+  font-size: 30px;
+  text-align: center;
+  width: 60%;
+  margin: auto;
+}
+
+#grad1 {
+  height: 700px;
+  background-color: red;
+  background-image: linear-gradient(black, black, red);
+  width: 100%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
+.slidecontainer {
+  width: 100%;
+}
+
+.slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 80%;
+  height: 5px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 1;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#timeline {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  width: 80%;
+}
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: darkred;
+  font-size: 25px;
+  padding: 8px;
+  background-color: black;
+  font-family: 'Special Elite';
+  border-color: darkred;
+}
+
+.small {
+  color: black;
+  font-family: 'Special Elite';
+  font-size: 20px;
+  text-align: center;
+  width: 80%;
+  margin: auto;
+}
